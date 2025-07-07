@@ -1,45 +1,19 @@
-# 👨‍💻 Vishnu Gmk | Web & Game Developer
+# 👨‍💻 GOWTHAM M KUMAR | Web Developer 
 
-Hi there! I'm **Vishnu**, a passionate final-year Computer Science student with hands-on experience in full-stack web development and Unity game development. I build functional, accessible, and impactful digital solutions, with a strong interest in helping communities through technology.
-
----
-
-## 🔧 Tech Stack & Tools
-
-- **Languages**: Python, JavaScript, HTML5, CSS3, C#
-- **Frameworks**: Django, React, Bootstrap
-- **Game Engines**: Unity (2D/3D)
-- **Databases**: SQLite3, MySQL
-- **Tools**: Git & GitHub, VS Code, Figma, Canva
+Hi there! I'm Gowtham, a passionate final-year Computer Science student with hands-on experience in full-stack web development and Unity game development. I build functional, accessible, and impactful digital solutions, with a strong interest in helping communities through technology. 
 
 ---
 
-## 💼 Currently Working On
+### 🛠️ Tech Stack (Badged Version)
 
-- 🧠 **AutiMate** – A full-stack Django web app to assist autistic individuals with routines, communication, and learning tools.
-- 🌐 **Portfolio Website** – A personal site to showcase my work and blogs (HTML, CSS, JavaScript).
-- 🎮 **Unity Puzzle Game** – Mobile-first casual puzzle game (optimized for low-end devices).
-
----
-
-## 🌟 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Restaurant Management System](#) | A CRUD-based system with admin/user login and menu handling | Python, SQLite, Tkinter |
-| [AAC Web App for Autism](#) | Augmentative Communication tool for autistic children | Django, Bootstrap |
-| [Static Resume Website](#) | A professional resume hosted with GitHub Pages | HTML, CSS |
-| [PowerBI Dashboard](#) | Crime Data Analysis with visualizations | Power BI, Excel |
-
-> ✅ *More projects coming soon!*
-
----
-
-## 🏆 Internships & Certifications
-
-- **Web Developer Intern** – XYZ Software Solutions
-- **Unity Game Development** – Coursera / Internshala Certified
-- **Python for Data Science** – NPTEL / IBM
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -49,15 +23,6 @@ Hi there! I'm **Vishnu**, a passionate final-year Computer Science student with 
 - 📧 Email: yourname@gmail.com
 - 💻 [Portfolio Website](https://yourportfolio.com)
 - 🎮 [Itch.io (Games)](https://yourname.itch.io)
-
----
-
-## 🧠 Goals for 2025
-
-- Crack on-campus placement for full-stack or Unity roles ✅  
-- Master DSA using Python ✅  
-- Contribute to open source projects  
-- Launch a mental health or assistive tech product  
 
 ---
 
