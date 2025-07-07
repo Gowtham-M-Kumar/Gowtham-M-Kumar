@@ -22,10 +22,9 @@ Hi there! I'm Gowtham, a passionate final-year Computer Science student with han
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: yourname@gmail.com
+- 💼 [LinkedIn](http://www.linkedin.com/in/gowtham-m-kumar-5abb19254)
+- 📧 Email: gowthammkumar2025@gmail.com
 - 💻 [Portfolio Website](https://yourportfolio.com)
-- 🎮 [Itch.io (Games)](https://yourname.itch.io)
 
 ---
 
