@@ -4,7 +4,7 @@ Hi there! I'm Gowtham, a passionate final-year Computer Science student with han
 
 ---
 
-### 🛠️ Tech Stack (Badged Version)
+### 🛠️ Tech Stack 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
