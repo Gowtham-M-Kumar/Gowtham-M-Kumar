@@ -24,7 +24,7 @@ Hi there! I'm Gowtham, a passionate final-year Computer Science student with han
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gowtham-m-kumar-b4b20a374/)
 - 📧 Email: gowthammkumar2025@gmail.com
-- 💻 [Portfolio Website](https://gwtm.pythonanywhere.com/)
+- 💻 [Portfolio Website](https://developerportfolio.pythonanywhere.com/)
 
 ---
 
