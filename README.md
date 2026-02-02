@@ -1,6 +1,4 @@
-# 👨‍💻 GOWTHAM M KUMAR | Web Developer 
-
-Hi there! I'm Gowtham, a passionate final-year Computer Science student with hands-on experience in full-stack web development. I build functional, accessible, and impactful digital solutions, with a strong interest in helping communities through technology. 
+# 👨‍💻 GOWTHAM M KUMAR | 
 
 ---
 
